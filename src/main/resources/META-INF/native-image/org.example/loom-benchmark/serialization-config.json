@@ -1,0 +1,20 @@
+[
+  {
+    "name": "java.util.TreeSet"
+  },
+  {
+    "name": "java.util.TreeMap"
+  },
+  {
+    "name": "java.util.HashSet"
+  },
+  {
+    "name": "java.util.LinkedHashSet"
+  },
+  {
+    "name": "java.util.HashMap"
+  },
+  {
+    "name": "java.util.LinkedHashMap"
+  }
+]
